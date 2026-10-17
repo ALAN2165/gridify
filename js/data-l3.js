@@ -134,9 +134,9 @@ OS|B|Sat|10|2|1|SE1|Alshimaa Ibrahim
 SAD|B|Mon|12|2|4|CL2|Mohamed Waleed, Abeer Mohamed
 MPI|L|Mon|14|2|*|C7|د. راندا محمد
 SAD|B|Tue|8|2|2|CL2|Rawan Elsawi
-MPI|B|Tue|10|2|2|CL1|Rokaya Safwat
-MPI|B|Tue|12|2|1|CL1|Rokaya Safwat
-SAD|B|Tue|12|2|3|SE1|Eman Hamdi, Habiba Sameh
+MPI|B|Tue|10|2|2|SE1|Rokaya Safwat
+MPI|B|Tue|12|2|1|SE1|Rokaya Safwat
+SAD|B|Tue|12|2|3|SE2|Eman Hamdi, Habiba Sameh
 SAD|L|Tue|14|2|*|H1|د. ياسمين عفيفي - د. أميرة علي
 OS|L|Tue|16|2|*|H1|د. أحمد صلاح - د. محمود زيدان
 CN|B|Wed|8|2|3|RB|Nada Medhat, Salsabil Sayed
